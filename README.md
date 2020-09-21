@@ -12,6 +12,6 @@
 - Cidade
 - Estado
 
-**Linguagem:** Javascript
+**Linguagens:** Javascript, HTML e CSS.
 
 **Funcionalidades:** Criação de nova entrada, exclusão, alteração e listagem de dados.
